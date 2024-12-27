@@ -1,0 +1,24 @@
+/* Estilos de Header*/
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4px;
+    text-align: center;
+    border-bottom: 10px solid brown;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 24px;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 16px;
+    cursor: pointer;
+}

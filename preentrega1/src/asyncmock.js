@@ -1,10 +1,10 @@
 const productos = [
-    { id: "1", nombre: "Jordan 1 Retro High OG SP Fragment x Travis Scott", precio: 500, img: "/PreEntrega1ReactJS-Lopez/img/jordanRetroOGTrav.png", idCat: "Nike" },
-    { id: "2", nombre: "Air Jordan 1 Retro High OG Chicago", precio: 500, img: "/PreEntrega1ReactJS-Lopez/img/jordanRetroHighChicago.png", idCat: "Nike" },
-    { id: "3", nombre: "Nike SB Dunk Low Concepts Green", precio: 500, img: "/PreEntrega1ReactJS-Lopez/img/nikeSBDunkLowGreen.png", idCat: "Nike" },
-    { id: "4", nombre: "Adidas Campus x Bad Bunny", precio: 500, img: "/PreEntrega1ReactJS-Lopez/img/adidasCampusBB.png", idCat: "Adidas" },
-    { id: "5", nombre: "Adidas Samba Og", precio: 500, img: "/PreEntrega1ReactJS-Lopez/img/adidasSambaOg.png", idCat: "Adidas" },
-    { id: "6", nombre: "Adidas Forum Buckle x Bad Bunny", precio: 500, img: "/PreEntrega1ReactJS-Lopez/img/adidasForumBuckleBB.png", idCat: "Adidas" }
+    { id: "1", nombre: "Jordan 1 Retro High OG SP Fragment x Travis Scott", precio: 500, img: "/PreEntrega2ReactJS-Lopez/img/jordanRetroOGTrav.png", idCat: "Nike" },
+    { id: "2", nombre: "Air Jordan 1 Retro High OG Chicago", precio: 500, img: "/PreEntrega2ReactJS-Lopez/img/jordanRetroHighChicago.png", idCat: "Nike" },
+    { id: "3", nombre: "Nike SB Dunk Low Concepts Green", precio: 500, img: "/PreEntrega2ReactJS-Lopez/img/nikeSBDunkLowGreen.png", idCat: "Nike" },
+    { id: "4", nombre: "Adidas Campus x Bad Bunny", precio: 500, img: "/PreEntrega2ReactJS-Lopez/img/adidasCampusBB.png", idCat: "Adidas" },
+    { id: "5", nombre: "Adidas Samba Og", precio: 500, img: "/PreEntrega2ReactJS-Lopez/img/adidasSambaOg.png", idCat: "Adidas" },
+    { id: "6", nombre: "Adidas Forum Buckle x Bad Bunny", precio: 500, img: "/PreEntrega2ReactJS-Lopez/img/adidasForumBuckleBB.png", idCat: "Adidas" }
 
 ];
 

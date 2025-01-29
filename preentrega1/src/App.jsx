@@ -11,7 +11,7 @@ const App = () => {
             <BrowserRouter>
                 <NavBar />
                 <Routes>
-                    <Route path='/PreEntrega1ReactJS-Lopez' element={<ItemListContainer />} />
+                    <Route path='/PreEntrega2ReactJS-Lopez' element={<ItemListContainer />} />
                     <Route path='/categoria/:idCategoria' element={<ItemListContainer />} />
                     <Route path='/item/:idItem' element={<ItemDetailContainer />} />
                     <Route path='*' element={<h2>Perdon, no disponemos de este producto ahora mismo</h2>} />

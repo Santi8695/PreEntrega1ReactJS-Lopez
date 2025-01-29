@@ -6,8 +6,8 @@ import { Link, NavLink } from "react-router-dom"
 const NavBar = () => {
   return (
     <header>
-      <Link to="/PreEntrega1ReactJS-Lopez">
-      <img src="/PreEntrega1ReactJS-Lopez/img/logoUrbanRituals.png" alt="Logo de Urban Rituals" />
+      <Link to="/PreEntrega2ReactJS-Lopez">
+      <img src="/PreEntrega2ReactJS-Lopez/img/logoUrbanRituals.png" alt="Logo de Urban Rituals" />
       </Link>
 
       <nav>

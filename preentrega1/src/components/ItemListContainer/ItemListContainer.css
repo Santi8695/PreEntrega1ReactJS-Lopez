@@ -1,7 +1,5 @@
-.bienvenida {
-    text-align: center;
-    background-color: burlywood;
-    padding: 16px;
-    border: 2px solid black;
-    margin: 30px auto;
+.itemListContainer {
+    margin: auto;
+    background-color: #e9e2e2;
+    padding: 20px;
 }

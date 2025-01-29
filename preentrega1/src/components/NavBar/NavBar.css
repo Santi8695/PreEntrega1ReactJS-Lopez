@@ -1,11 +1,17 @@
 /* Estilos de Header*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 4px;
     text-align: center;
-    border-bottom: 10px solid brown;
+    border-bottom: 5px solid rgb(0, 0, 0);
 }
 
 header nav ul {
@@ -21,4 +27,22 @@ header nav ul li {
     display: inline-block;
     margin: 16px;
     cursor: pointer;
+    color: black;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    transition: ease-in-out 200ms;
+}
+
+header nav ul li a:hover {
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding: 8px;
+    border-radius: 10%;
+    transition: ease-in-out 200ms;
 }
